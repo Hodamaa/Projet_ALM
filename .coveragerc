@@ -1,0 +1,6 @@
+[run]
+omit =
+    alm_engine/dashboard/app.py
+
+[report]
+fail_under = 70

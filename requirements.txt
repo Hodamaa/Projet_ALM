@@ -1,0 +1,10 @@
+numpy
+pandas
+streamlit
+plotly
+requests
+openpyxl
+matplotlib
+pytest
+pytest-cov
+
